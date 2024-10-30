@@ -1,0 +1,14 @@
+/* 
+    Document   : hyvesrespect
+    Author     : martijnh
+    Description: stylesheet for options page
+*/
+
+#hyvesrespect_preview {
+        float:left;
+        width:100%;
+        height:90px;
+        background-image:url('hyvesrespectpreview.jpg');
+        background-repeat:no-repeat;
+        background-position:top left;
+}
